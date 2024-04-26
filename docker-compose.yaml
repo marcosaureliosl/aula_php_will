@@ -32,7 +32,7 @@ services:
 
 volumes:
   symfony-dc-data:
-
+  
 networks:
   symfony-dc-network:
     driver: bridge
