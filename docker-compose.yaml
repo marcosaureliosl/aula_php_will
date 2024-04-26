@@ -7,7 +7,7 @@ services:
     networks:
       - symfony-dc-network
     ports:
-      - "8080:80"
+      - "8081:80"
     volumes:
       - .:/var/www
     environment:
